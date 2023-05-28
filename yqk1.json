@@ -152,7 +152,7 @@
   ],
   
 
-// "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9taHF0di9tYXN0ZXIvYm94L3lxay95cWtsaXZlLmpvc24="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9taHF0di9tYXN0ZXIvYm94L3lxay95cWtsaXZlLmpvc24="]}]}],
 
   "rules": [
     {
