@@ -64,7 +64,36 @@
         "欧美综艺"
       ]
     },
-  
+     {
+      "key": "csp_戏曲",
+      "name": "🅱┃哔哩┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./feim/json/戏曲.json"
+    },
+    {
+      "key": "演唱会",
+      "name": "🅱┃哔哩┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./feim/json/ych.json"
+    },
+    {
+      "key": "js虎牙",
+      "name": "🐅┃虎牙┃直播",
+      "type": 3,
+      "api": "./feim/drpy2.min.js",
+      "ext": "./feim/js/虎牙直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "py_cctv",
       "name": "央视精品",
